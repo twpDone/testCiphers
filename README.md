@@ -1,2 +1,4 @@
 # testCiphers
-Bash script to test ciphers support
+Scripts to test ciphers support, using openssl.
+
+The python script is supposed to be a bit faster.
